@@ -146,7 +146,7 @@ frappe.pages["setup-zatca-phase-2"].on_page_load = function (wrapper) {
 	const slides_settings = [
 		{
 			name: "welcome",
-			title: __("Zatca Phase 2 Wizard (ERPGulf)"),
+			title: __("Zatca Phase 2 Wizard (Neotec)"),
 			fields: [
 				{
 					fieldtype: "HTML",
